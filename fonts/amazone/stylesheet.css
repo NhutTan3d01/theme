@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amazone BT';
+    src: url('AmazoneBT-Regular.woff2') format('woff2'),
+        url('AmazoneBT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
